@@ -58,7 +58,7 @@ a:hover {
 
 .box-shadow-a, .button:hover {
   text-decoration: none;
-  box-shadow: 0 0 0 4px #cde1f8;
+  box-shadow: 0 0 0 4px #1F1F1F;
 }
 
 .display-5 {
@@ -163,7 +163,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #e6b17e;
   margin: 0 auto;
 }
 
@@ -181,7 +181,7 @@ a:hover {
   content: '';
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #e6b17e;
   width: 100px;
   bottom: -12px;
 }
@@ -222,14 +222,14 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #e6b17e;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #e6b17e;
   color: #fff;
-  box-shadow: 0 0 0 3px #cde1f8;
+  box-shadow: 0 0 0 3px #e6b17e;
   transition: all 500ms ease;
 }
 
@@ -258,7 +258,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px #e6b17e;
   display: block;
 }
 
@@ -415,16 +415,17 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #e6b17e;
   color: #fff;
   transition: all 500ms ease;
+
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #e6b17e;
   color: #fff;
-  border-color: #cde1f8;
+  border-color: #e6b17e;
 }
 
 .button-big {
@@ -477,7 +478,7 @@ a:hover {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -606,7 +607,7 @@ a:hover {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -852,8 +853,8 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
-  box-shadow: 0 0 0 10px #cde1f8;
+  background-color: #e6b17e;
+  box-shadow: 0 0 0 10px #e6b17e;
 }
 
 .service-box .service-ico {
@@ -906,7 +907,7 @@ a:hover {
   height: 60px;
   width: 60px;
   line-height: 1.5;
-  box-shadow: 0 0 0 10px #cde1f8;
+  box-shadow: 0 0 0 10px #e6b17e;
 }
 
 .counter-num .counter {
