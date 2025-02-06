@@ -97,6 +97,23 @@ a:hover {
   background-color: #212121;
 }
 
+.w-more {
+  display: flex;
+  flex-wrap: nowrap; /* Prevent wrapping to the next line */
+  gap: 10px; /* Adds space between tags */
+  overflow-x: auto; /* Allows scrolling if needed */
+}
+
+.tag {
+  background-color: #000000;
+  color: #333;
+  padding: 3px 7px;
+  border-radius: 5px;
+  font-size: 10px;
+  font-weight: 300;
+  white-space: nowrap; /* Prevents text from breaking */
+}
+
 .overlay-mf {
   position: absolute;
   top: 0;
